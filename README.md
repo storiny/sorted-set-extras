@@ -1,5 +1,5 @@
 # sorted-set-extras
-This repository contains an extended range of sorted set commands for Redis written in Lua. Commands are registered through the [ioredis](https://www.npmjs.com/package/ioredis) redis client.
+This repository contains an extended range of sorted set commands for Redis written in Lua. Commands are registered through the [ioredis](https://www.npmjs.com/package/ioredis) redis client for node.
 
 ## Commands
 
